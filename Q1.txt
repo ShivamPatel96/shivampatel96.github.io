@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Our Company</title>
+  <link href="site.css" rel="stylesheet">
+</head>
+
+<body>
+
+	<nav id="nav01"></nav>
+
+  <div id="main">
+  <h1>Welcome to Your Future</h1>
+  <h2>The Core of this website</h2>
+
+  <p>Purpose?</p>
+  <p>Help You Realize What YOU Want To DO!!!</p>
+  <p>Remember that this is YOUR FUTURE</p>
+  <p> Lets  <a href="html_images.asp">START!!! :)</a></p> 
+  <footer id="foot01"></footer>
+  </div>
+
+	<script src="script.js"></script>
+	
+  
+</body>
+</html> 
